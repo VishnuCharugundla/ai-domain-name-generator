@@ -78,3 +78,21 @@ See `report/technical_report.md` for the full write-up.
 
 - **Q:** I don’t see results in Swagger. What do I do?
   **A:** Restart the server and visit http://localhost:8000/docs again.
+
+## 🧪 How to Use the API Demo (Step-by-Step)
+
+Once your server is running at `http://localhost:8000/docs`:
+
+1. Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser  
+   → This is the built-in Swagger UI.
+
+2. Find the **POST `/generate`** section  
+   → Click the dropdown to expand it
+
+3. Click the **"Try it out"** button on the right
+
+4. Paste this sample input in the text box:
+   ```json
+   {
+     "business_description": "eco-friendly pet insurance startup"
+   }
