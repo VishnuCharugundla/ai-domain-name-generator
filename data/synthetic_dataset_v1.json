@@ -1,0 +1,1002 @@
+[
+  {
+    "business_description": "A growing tech company serving urban customers.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A tech company.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A finance startup aiming to innovate in its domain.",
+    "category": "finance",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on health.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A entertainment platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A tech startup aiming to innovate in its domain.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing entertainment company serving urban customers.",
+    "category": "entertainment",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A finance business specializing in personalized services and global logistics integration.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health company.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on real estate.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A fashion startup aiming to innovate in its domain.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing tech company serving urban customers.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A education company.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on tech.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A fashion business specializing in personalized services and global logistics integration.",
+    "category": "fashion",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A education platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A fashion platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "fashion",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A food platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A beauty business specializing in personalized services and global logistics integration.",
+    "category": "beauty",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A education company.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A finance platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A entertainment startup aiming to innovate in its domain.",
+    "category": "entertainment",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health company.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A finance company.",
+    "category": "finance",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A education business specializing in personalized services and global logistics integration.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A education platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on legal.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A real estate platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing real estate company serving urban customers.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A tech platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "tech",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food startup aiming to innovate in its domain.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A food startup aiming to innovate in its domain.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal business specializing in personalized services and global logistics integration.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A entertainment company.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing finance company serving urban customers.",
+    "category": "finance",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A real estate company.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A entertainment company.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A finance platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing education company serving urban customers.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A entertainment company.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A legal startup aiming to innovate in its domain.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on health.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A beauty company.",
+    "category": "beauty",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on education.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on fashion.",
+    "category": "fashion",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A beauty startup aiming to innovate in its domain.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A entertainment business specializing in personalized services and global logistics integration.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A beauty startup aiming to innovate in its domain.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on fashion.",
+    "category": "fashion",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A food platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on health.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A real estate platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing fashion company serving urban customers.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing entertainment company serving urban customers.",
+    "category": "entertainment",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A food startup aiming to innovate in its domain.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal company.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing real estate company serving urban customers.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A food startup aiming to innovate in its domain.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A fashion business specializing in personalized services and global logistics integration.",
+    "category": "fashion",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health company.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing food company serving urban customers.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A entertainment business specializing in personalized services and global logistics integration.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A fashion business specializing in personalized services and global logistics integration.",
+    "category": "fashion",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health business specializing in personalized services and global logistics integration.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A entertainment startup aiming to innovate in its domain.",
+    "category": "entertainment",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A finance company.",
+    "category": "finance",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on food.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on beauty.",
+    "category": "beauty",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A tech company.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A education business specializing in personalized services and global logistics integration.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on entertainment.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education business specializing in personalized services and global logistics integration.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food company.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A finance business specializing in personalized services and global logistics integration.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal startup aiming to innovate in its domain.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on health.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A legal company.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing fashion company serving urban customers.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A real estate startup aiming to innovate in its domain.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on real estate.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing food company serving urban customers.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health business specializing in personalized services and global logistics integration.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health company.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on finance.",
+    "category": "finance",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "education",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A finance company.",
+    "category": "finance",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education company.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on beauty.",
+    "category": "beauty",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing tech company serving urban customers.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A beauty startup aiming to innovate in its domain.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing real estate company serving urban customers.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A health business specializing in personalized services and global logistics integration.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing real estate company serving urban customers.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing beauty company serving urban customers.",
+    "category": "beauty",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A beauty business specializing in personalized services and global logistics integration.",
+    "category": "beauty",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food company.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on real estate.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on beauty.",
+    "category": "beauty",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A entertainment company.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A tech company.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on tech.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A tech business specializing in personalized services and global logistics integration.",
+    "category": "tech",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A legal platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A entertainment business specializing in personalized services and global logistics integration.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food company.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing fashion company serving urban customers.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A finance business specializing in personalized services and global logistics integration.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A real estate startup aiming to innovate in its domain.",
+    "category": "real estate",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A food platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on legal.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A real estate business specializing in personalized services and global logistics integration.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A health company.",
+    "category": "health",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A real estate business specializing in personalized services and global logistics integration.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food business specializing in personalized services and global logistics integration.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A fashion company.",
+    "category": "fashion",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on legal.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A finance platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A tech company.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on real estate.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on tech.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A legal business specializing in personalized services and global logistics integration.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A beauty business specializing in personalized services and global logistics integration.",
+    "category": "beauty",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A legal company.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing entertainment company serving urban customers.",
+    "category": "entertainment",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A entertainment platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A legal platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing finance company serving urban customers.",
+    "category": "finance",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A tech business specializing in personalized services and global logistics integration.",
+    "category": "tech",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A real estate company.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A entertainment platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A entertainment platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "entertainment",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A legal company.",
+    "category": "legal",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health business specializing in personalized services and global logistics integration.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on tech.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A real estate company.",
+    "category": "real estate",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health startup aiming to innovate in its domain.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on food.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A tech company.",
+    "category": "tech",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A entertainment company.",
+    "category": "entertainment",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A education startup aiming to innovate in its domain.",
+    "category": "education",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A tech business specializing in personalized services and global logistics integration.",
+    "category": "tech",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on education.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A food business specializing in personalized services and global logistics integration.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A fashion business specializing in personalized services and global logistics integration.",
+    "category": "fashion",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on fashion.",
+    "category": "fashion",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A food business specializing in personalized services and global logistics integration.",
+    "category": "food",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A business focused on food.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A health business specializing in personalized services and global logistics integration.",
+    "category": "health",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing health company serving urban customers.",
+    "category": "health",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing tech company serving urban customers.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal business specializing in personalized services and global logistics integration.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A tech startup aiming to innovate in its domain.",
+    "category": "tech",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A real estate platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A tech platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "tech",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A legal platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "legal",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing food company serving urban customers.",
+    "category": "food",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A education company.",
+    "category": "education",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A real estate platform providing AI-powered solutions for enterprises worldwide.",
+    "category": "real estate",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A growing finance company serving urban customers.",
+    "category": "finance",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A growing legal company serving urban customers.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A business focused on beauty.",
+    "category": "beauty",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A growing fashion company serving urban customers.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A legal startup aiming to innovate in its domain.",
+    "category": "legal",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A fashion startup aiming to innovate in its domain.",
+    "category": "fashion",
+    "complexity_level": "medium"
+  },
+  {
+    "business_description": "A finance business specializing in personalized services and global logistics integration.",
+    "category": "finance",
+    "complexity_level": "complex"
+  },
+  {
+    "business_description": "A food company.",
+    "category": "food",
+    "complexity_level": "simple"
+  },
+  {
+    "business_description": "A business focused on health.",
+    "category": "health",
+    "complexity_level": "simple"
+  }
+]

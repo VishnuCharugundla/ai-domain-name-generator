@@ -1,0 +1,11 @@
+category,description,domain,relevance,creativity,professionalism,flagged
+vague,something techy,something-97.com,0.9,0.7,0.8,False
+inappropriate,adult website with nude content,adult-97.com,0.9,0.7,0.8,False
+conflicting concepts,a lawyer coffee shop hybrid,lawyer-97.com,0.9,0.7,0.8,False
+repetitive,nonprofit nonprofit nonprofit,nonprofit-97.com,0.9,0.7,0.8,False
+conflicting concepts,legal help but also organic farm,legal-97.com,0.9,0.7,0.8,False
+unsafe theme,killzone gaming clan,killzone-118.com,0.9,0.7,0.8,True
+vague,hello,hello.com,0.9,0.7,0.8,False
+spammy,make money fast business,make money fast business,0.9,0.7,0.8,False
+inappropriate,xxx beauty salon,beauty-118.com,0.9,0.7,0.8,False
+multiconcept,insurance company for pets and cars,insurance-97.com,0.9,0.7,0.8,False
