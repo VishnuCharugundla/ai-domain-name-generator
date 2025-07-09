@@ -66,4 +66,15 @@ You can regenerate the model using `notebooks/01_model_training.ipynb`.
 
 ## 📄 Report
 
-See `report/technical_report.md` or `technical_report.docx` for the full write-up.
+See `report/technical_report.md` for the full write-up.
+
+## 🧠 FAQ / Troubleshooting
+
+- **Q:** Why do I get `blocked` in the response?
+  **A:** The input likely contains restricted content. Check `utils/safety.py` for rules.
+
+- **Q:** Why are there only 3 domain names returned?
+  **A:** The model is configured to return `num_return_sequences=3`. You can change this in `main.py`.
+
+- **Q:** I don’t see results in Swagger. What do I do?
+  **A:** Restart the server and visit http://localhost:8000/docs again.
